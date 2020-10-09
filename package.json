@@ -2,7 +2,7 @@
   "name": "mern-simplesetup",
   "version": "1.0.0",
   "description": "Simple setup for MERN project",
-  "main": "index.js",
+  "main": "template.js",
   "repository": "https://github.com/soteloalarco/mern-simplesetup",
   "author": "Rolando Sotelo <rolandosoteloalarcon@gmail.com>",
   "license": "MIT",
